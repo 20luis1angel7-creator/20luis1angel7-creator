@@ -8,25 +8,13 @@ Computer software developer focused on backend systems, automation, and AI imple
 
 ## Tech Stack
 
-**Languages ➤** Python, JavaScript, TypeScript, SQL, R
+**Languages ➤** Python, JavaScript, TypeScript, SQL
 
-### Languages
-- Python
-- TypeScript
-- JavaScript
-- SQL
+**Backend ➤** Node.js, Express
 
-### Backend
-- Node.js
-- Express
+**Frontend ➤** React, Next.js, TailwindCSS
 
-### Frontend
-- React
-- Next.js
-- TailwindCSS
-
-### Databases
-- PostgreSQL
+**Databases ➤** PostgreSQL
 
 ---
 

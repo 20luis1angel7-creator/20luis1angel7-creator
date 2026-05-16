@@ -8,8 +8,7 @@ Computer software developer focused on backend systems, automation, and AI imple
 
 ## Tech Stack
 
-## Languages
-▸ Python, JavaScript, TypeScript, SQL, R
+## Languages ▸ Python, JavaScript, TypeScript, SQL, R
 
 ### Languages
 - Python
